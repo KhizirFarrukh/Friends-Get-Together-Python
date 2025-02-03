@@ -4,3 +4,4 @@ echo "__pycache__/
 venv/
 .env
 .DS_Store" > .gitignore
+.html
