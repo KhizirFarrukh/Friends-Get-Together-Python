@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Place house coordinates in `coords.txt`, one per line in `@lat,lon` format (e.g., `@24.8020962,67.0298298`). These coordinates can be obtained from Google Maps URL (e.g., `https://www.google.com/maps/@24.8652276,67.0315489,18.25z`).
+1. Place house coordinates in `coords.txt`, one per line in `@lat,lon` format (e.g., `@24.8020962,67.0298298`). These coordinates can be obtained from Google Maps URL (e.g., `https://www.google.com/maps/@24.8652276,67.0315489,18.25z`) or by right-clicking on a location and selecting "What's here?", then copying the latitude and longitude (make sure to follow the coordinates format).
 2. Specify marker colors in `colors.txt`, one color per line (avoid hexcodes as it will have issues in marking houses e.g., `#FF5733`).
 3. Run the script:
 
